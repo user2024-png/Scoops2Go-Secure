@@ -30,7 +30,9 @@ All communications occur over HTTPS.
 | **Elevation of Privilege** | Normal user gains admin access | Enforce role-based access control (RBAC) |
 
 ## 4. Threat Diagram
-*(Insert threat model diagram below — system components, data flows, and trust boundaries)*
+
+<img width="446" height="484" alt="image" src="https://github.com/user-attachments/assets/39be8377-835c-47d9-a5f7-05854434ddcd" />
+
 
 ## 5. Security Controls Summary
 - HTTPS enforced
