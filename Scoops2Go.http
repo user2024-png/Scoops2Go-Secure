@@ -1,0 +1,6 @@
+@Scoops2Go_HostAddress = http://localhost:5038
+
+GET {{Scoops2Go_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
